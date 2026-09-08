@@ -18,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/sumit-sagar0/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/sumit-sagar0/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0263-ugly-number](https://github.com/sumit-sagar0/LeetCode-Solutions/tree/master/0263-ugly-number) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/sumit-sagar0/LeetCode-Solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
