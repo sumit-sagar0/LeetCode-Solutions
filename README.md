@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sumit-sagar0/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/sumit-sagar0/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/sumit-sagar0/LeetCode-Solutions/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/sumit-sagar0/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/sumit-sagar0/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
