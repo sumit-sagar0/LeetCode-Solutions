@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sumit-sagar0/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/sumit-sagar0/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/sumit-sagar0/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/sumit-sagar0/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/sumit-sagar0/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 ## Hash Table
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sumit-sagar0/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/sumit-sagar0/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/sumit-sagar0/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 ## String
 |  |
@@ -52,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/sumit-sagar0/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/sumit-sagar0/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
